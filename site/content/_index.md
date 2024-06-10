@@ -1,6 +1,6 @@
 ---
 title: "The Hackproof Show!"
-subtitle: Your podcast for all things cybersecurity (also please don't hack us lol)
+subtitle: "Your podcast for all things cybersecurity (also please don't hack us lol)"
 image: /img/home-jumbotron.jpg
 blurb:
     heading: ?
