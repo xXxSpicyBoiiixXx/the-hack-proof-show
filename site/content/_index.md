@@ -4,7 +4,7 @@ subtitle: "Your podcast for all things cybersecurity (also please don't hack us 
 image: /img/home-jumbotron.jpg
 blurb:
     heading: 
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    text: "Dive into the forefront of cybersecurity with our expert insights and cutting-edge strategies. Each episode brings you the latest trends, in-depth discussions with industry leaders, and actionable advice to safeguard your digital life. Whether you're a cybersecurity pro or just starting out, The Hack Proof Show is your go-to resource for staying ahead of cyber threats. Join us and become part of a community dedicated to making the digital world a safer place."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
