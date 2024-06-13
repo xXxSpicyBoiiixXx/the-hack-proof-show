@@ -2,44 +2,28 @@
 title: "Values"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Expertise"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      We leverage our deep knowledge and experience in cybersecurity to provide accurate, insightful, and relevant information to our audience.
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+  - heading: "Integrity"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+      We prioritize honesty and transparency in our discussions and recommendations, ensuring our listeners receive trustworthy and unbiased content
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+  - heading: "Education"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+      We are dedicated to fostering a culture of continuous learning by sharing valuable insights, practical tips, and actionable strategies to enhance cybersecurity awareness and skills.
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+  - heading: "Community"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      We strive to build a supportive and engaged community where cybersecurity profesionals and enthusiasts can connect, share experiences, and learn from one another.
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+  - heading: "Innovation"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      We stay at the forefront of cybersecurity trends and technologies, bringing you the latest developments and innovative solutions to stay ahead of emerging threats.
     imageUrl: "/img/about-reinvest-profits.jpg"
+  - heading: "Empowerment"
+    text: > 
+      We aim empower our listeners with the knowledge and tools they need to protect themselves and their organizations in the digital world. 
+    imageUrl: ""
 ---
